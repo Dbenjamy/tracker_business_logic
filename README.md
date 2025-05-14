@@ -8,7 +8,3 @@ The goal of this project is to construct a large, fault tolerant system that sim
 ## Progress
 The package registration microservice writes successfully passed data into backend server.
 -----
-
-%% Build
-
- %%    $ rebar3 compile
