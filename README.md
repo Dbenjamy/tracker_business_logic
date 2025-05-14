@@ -6,4 +6,4 @@ The goal of this project is to construct a large, fault tolerant system that sim
 - Ranch - 2.1.0
 - riakc - 3.0.13
 ## Progress  
-The package registration microservice writes successfully passed data into backend server.
+The package registration microservice successfully passed data into backend server over TCP
